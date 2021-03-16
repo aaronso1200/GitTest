@@ -13,7 +13,7 @@ namespace WebApplication1.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "NO DATA"
+            "Branch 1010101"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
